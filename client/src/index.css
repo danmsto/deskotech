@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+    font-family: 'Exo', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: 'Exo', sans-serif;
+}
+
+.textContainer {
+    font-family: 'Bungee Shade', cursive;
+}

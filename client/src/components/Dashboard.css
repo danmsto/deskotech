@@ -1,0 +1,25 @@
+.avatarCol{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 0 0 12px;
+
+}
+
+.buttonRow{
+    padding:10px;
+}
+
+.paraRow{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.avatarList{
+    display:flex;
+    padding-right: 20px;
+}
+
