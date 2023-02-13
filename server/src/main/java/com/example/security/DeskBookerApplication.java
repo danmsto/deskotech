@@ -37,7 +37,6 @@ public class DeskBookerApplication {
             admin.setFirstName("Mr");
             admin.setSurname("Admin");
             admin.setVerified(true);
-            admin.setVerified(true);
             userRepository.save(admin);
 
             for (int i = deskProperties.getMinDeskNumber(); i <= deskProperties.getMaxDeskNumber(); i++) {
