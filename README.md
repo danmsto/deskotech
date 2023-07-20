@@ -1,12 +1,4 @@
-# deskotech
-
-Requires a MySQL database for server-side, run npm install for client-side.
-
-Also requires an application.properties file in server/src/resources/ with the following:
-
-    Please contact me to get the application.properties used for this app
-
-## This is a prototype desk booking app made by the 4Q22 EyUp Cohort
+# A prototype desk booking app made by the 4Q22 EyUp Cohort
 
 ### This site includes login and signup functionality
 ![Image1](/assets/1.png "Image 1")
